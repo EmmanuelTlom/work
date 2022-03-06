@@ -1394,6 +1394,7 @@ img {
   -ms-grid-columns: (minmax(25rem, 1fr)) [auto-fit];
   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
   gap: 1.5rem;
+  padding: 0 2rem;
 }
 
 .footer .box-container .box h3 {
